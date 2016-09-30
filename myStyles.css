@@ -1,0 +1,57 @@
+body {
+    background-color: #e0d0d8;
+    color: #382a31;
+    font-family: 'Roboto', sans-serif;
+}
+
+ul {
+    list-style-type: none;
+    font-size: 1.5em;
+    text-align: right;
+    padding: 1em;
+    padding-left: 10em;
+    padding-top: 3.2em;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: white;
+}
+/*.bottom-align-text {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}*/
+
+
+.contact {
+    display: inline-block;
+}
+
+.portfolioDisplay {
+    padding: 4em;
+}
+
+.imgLimit {
+    max-height: 300px;
+    display: inline-block;
+}
+
+.bio {
+    padding: 4em;
+}
+
+
+.navbar-default .navbar-brand {
+    font-family: 'Damion', cursive !important;
+    font-size: 6em;
+    padding-left: .4em;
+    padding-top: .8em;
+    padding-right: .5em;
+    color: white;
+}
+
+.topNav {
+  background-color: #f23e86;
+  border-color: #f23e86;
+  height: 8em;
+}
